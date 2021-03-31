@@ -43,8 +43,11 @@ Project Management/Documentation: JIRA, Confluence, Gitlab CI/CD, GitHub actions
 
 ## Projects 
 ### URLShortener
+
 Go, BoltDB, Mux
+
 A simple URL shortener which uses an embedded DB for ultra-portability
+
 https://github.com/karanssh/URLShortener
 
 ### Education 
