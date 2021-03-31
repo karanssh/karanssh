@@ -32,9 +32,13 @@ Kolkata, IN
 - Database Admin
 
 ## Skills
+
 Programming Languages: Go, Java
+
 Frameworks: JasperReports, MaxMind APIs
+
 Design Patterns: Monolithic Systems, Microservices
+
 Project Management/Documentation: JIRA, Confluence, Gitlab CI/CD, GitHub actions, Azure pipelines
 
 ## Projects 
