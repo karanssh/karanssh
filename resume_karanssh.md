@@ -2,16 +2,24 @@
 
 ## Basics
 
-Name: Karan Shah,
+Name: Karan Shah
+
 Email: karan[.]shh1@gmail[.]com
+
 Phone: [please ask via email]
+
 Location: Bengaluru, India
+
 Github: github.com/karanssh
+
 Socials: @karanssh wherever you choose to look :)
 
 ## Work Experience 
+
 ### SonicWall Inc., Software Dev Engineer 
+
 Sep 2019 | Present
+
 Bengaluru, IN
 - Designing Frameworks to Manage Firewalls (Go)
 - PDF Generation for Reporting Data (Jasper Reports, Java)
