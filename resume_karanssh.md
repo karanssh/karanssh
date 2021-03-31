@@ -48,9 +48,14 @@ A simple URL shortener which uses an embedded DB for ultra-portability
 https://github.com/karanssh/URLShortener
 
 ### Education 
+
 Heritage Institute of Technology
+
 B. Tech in Computer Science 
+
 GPA: 7.5 
+
 Jul 2015 | Jun 2019
+
 Kolkata, West Bengal
 
